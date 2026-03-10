@@ -30,7 +30,7 @@ OOP2/
 ## ▶️ How to Run
 
 Compile:
-javac OOP2/*.java
+javac OOP2.java
 
 Run:
 java OOP2.Bank
